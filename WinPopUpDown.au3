@@ -1,0 +1,5 @@
+WinWaitActive("Opening selenium-server-standalone-3.3.1.jar")
+Send("{LEFT}")
+Sleep("1000")
+Send("{ENTER}")
+WinClose("Opening selenium-server-standalone-3.3.1.jar")
